@@ -112,21 +112,21 @@ Here are some sample visualizations from the analysis:
 
 This chart shows how **loan repayments increased** steadily each month, reaching their highest point in **December 2021**. It highlights the bank’s strong cash flow growth and ability to scale operations with rising customer demand.
 
-![Total Amount Received by Month](images/Total_Amount_Received_by_Month.png)
+![Total Amount Received by Month](Images/Total_Amount_Received_by_Month.png)
 &nbsp;
 
 ### 2️⃣ Employee Length Analysis – Total Amount Received
 
 This chart shows that borrowers with **10+ years of employment** contribute the **highest total repayments**, proving they are the most financially reliable group. It also shows that borrowers with less than **1 year of employment form a large but riskier segment**.
 
-![Total Amount Received by Employee_Length](images/Total_Amount_Received_by_Employee_Length.png)
+![Total Amount Received by Employee_Length](Images/Total_Amount_Received_by_Employee_Length.png)
 &nbsp;
 
 ### 3️⃣ Regional Analysis by State – Total Amount Received
 
 This chart shows that **California (CA) generates the highest total repayments**, making it the bank’s most profitable and dominant market. However, it also reveals regional concentration risk, suggesting the need to expand in **New York (NY), Texas (TX), and Florida (FL)** for better diversification.
 
-![Total Amount Received by States](images/Total_Amount_Received_by_States.png)
+![Total Amount Received by States](Images/Total_Amount_Received_by_States.png)
 &nbsp;
 
 ---
