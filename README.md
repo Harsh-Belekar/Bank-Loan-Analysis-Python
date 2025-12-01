@@ -309,3 +309,13 @@ By improving risk control and portfolio balance, the bank can **increase profits
 │
 └── README.md                     # Project documentation
 ```
+
+---
+
+## 🧑‍💻 Author
+
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
+
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
